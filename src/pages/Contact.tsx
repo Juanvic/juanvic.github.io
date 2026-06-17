@@ -1,5 +1,3 @@
-import Form from "../components/ui/Form";
-
 export default function Contact() {
   return (
     <>
@@ -17,7 +15,6 @@ export default function Contact() {
             <li>Mastodon</li>
           </ul>
         </div>
-        {/* <Form /> */}
       </section>
     </>
   );
