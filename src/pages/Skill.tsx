@@ -12,6 +12,14 @@ type Project = {
 export default function Skill(): JSX.Element {
   const projects: Project[] = [
     {
+      title: "Portifólio",
+      imageSrc:
+        "https://socialify.git.ci/juanvic/juanvic.github.io/image?font=Raleway&language=1&name=1&owner=1&pattern=Transparent&theme=Auto",
+      caption: "Prévia Portifólio",
+      repoUrl: "https://github.com/juanvic/juanvic.github.io",
+      projectUrl: "https://juanvic.github.io/",
+    },
+    {
       title: "Temcard",
       imageSrc:
         "https://socialify.git.ci/juanvic/temcard/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fstyles.redditmedia.com%2Ft5_g8mrl%2Fstyles%2FcommunityIcon_ztfjk0dqw9mc1.png&name=1&owner=1&pattern=Transparent&theme=Auto",
@@ -28,7 +36,7 @@ export default function Skill(): JSX.Element {
     },
     {
       title: "Cover-card",
-      imageSrc: "https://socialify.git.ci/juanvic/cover-card/image?description=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15617091%3Fv%3D4&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light",
+      imageSrc: "https://socialify.git.ci/juanvic/cover-card/image?language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15617091%3Fv%3D4&name=1&owner=1&pattern=Transparent&theme=Light",
       caption: "Prévia do Projeto",
       repoUrl: "https://github.com/juanvic/cover-card",
       projectUrl: "https://juanvic.github.io/cover-card",
