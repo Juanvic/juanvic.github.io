@@ -1,6 +1,6 @@
 import { ArrowBounce } from "../components/ui/ArrowBounce";
 
-function Home() {
+export default function Home() {
   return (
     <main className="min-h-screen flex flex-col justify-center items-center gap-6">
       <div className="flex justify-center items-center">
@@ -17,4 +17,3 @@ function Home() {
   );
 }
 
-export default Home;
