@@ -10,7 +10,7 @@ export default function Header() {
               href="https://github.com/Juanvic/"
               className="text-xl font-bold text-gray-900 dark:text-white tracking-tight"
             >
-              Juan<span className="text-blue-600">Almeida</span>
+              <span className="text-blue-600">Portifólio</span>
             </a>
           </div>
 

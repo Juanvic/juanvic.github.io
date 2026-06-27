@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="min-h-screen flex flex-col justify-center items-center gap-6">
       <div className="flex justify-center items-center">
-        <h1 className="text-3xl font-bold border border-blue-600 p-6 hover:bg-sky-700 transition-colors duration-200">
+        <h1 className="text-5xl text-gray-200 dark:text-white font-bold border border-blue-600 p-6 hover:bg-sky-700 transition-colors duration-200">
           Olá, sou Juan Almeida
         </h1>
       </div>

@@ -6,7 +6,7 @@ export default function Skill(): React.JSX.Element {
     <>
       <section id="skills">
         <div className="flex flex-col justify-center items-center pt-30">
-          <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-3">
+          <h1 className="text-2xl font-bold text-amber-50 dark:text-white mb-3">
             Habilidades &amp; Projetos
           </h1>
 
@@ -24,7 +24,7 @@ export default function Skill(): React.JSX.Element {
             </ul>
           </div>
 
-          <p className="mt-4 text-gray-600 dark:text-gray-400">
+          <p className="mt-4 text-gray-400 dark:text-gray-400">
             Confira os projetos atuais!
           </p>
         </div>

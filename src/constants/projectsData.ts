@@ -12,7 +12,7 @@ export const projects: Project[] = [
   {
     title: "Portifólio",
     imageSrc:
-      "https://socialify.git.ci/juanvic/juanvic.github.io/image?font=Raleway&language=1&name=1&owner=1&pattern=Transparent&theme=Auto",
+      "https://socialify.git.ci/juanvic/juanvic.github.io/image?language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FJuanvic%2Fjuanvic.github.io%2Fad675f4349aa53f65dd2d5a6dcc145bae30d8013%2Fpublic%2Ffavicon.svg&name=1&owner=1&pattern=Transparent&theme=Auto",
     caption: "Prévia Portifólio",
     repoUrl: "https://github.com/juanvic/juanvic.github.io",
     projectUrl: "https://juanvic.github.io/",

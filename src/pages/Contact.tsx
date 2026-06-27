@@ -5,7 +5,7 @@ export default function Contact(): React.JSX.Element {
     <>
       <section id="contato">
         <div className="flex justify-center items-center pt-30">
-          <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-3">
+          <h1 className="text-3xl font-bold text-amber-50 dark:text-white mb-3">
             Contato
           </h1>
         </div>
