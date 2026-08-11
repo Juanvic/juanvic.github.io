@@ -18,6 +18,14 @@ export const projects: Project[] = [
     projectUrl: "https://juanvic.github.io/",
   },
   {
+    title: "Gerador de Gamertag",
+    imageSrc:
+      "https://socialify.git.ci/Juanvic/gamertag-generator/image?custom_language=JavaScript&font=Source+Code+Pro&language=1&logo=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F398565%2Fvideo-game.svg&name=1&owner=1&pattern=Transparent&stargazers=1&theme=Auto",
+    caption: "Prévia Gamertag Generator",
+    repoUrl: "https://github.com/juanvic/gamertag-generator",
+    projectUrl: "https://juanvic.github.io/gamertag-generator",
+  },
+  {
     title: "Temcard",
     imageSrc:
       "https://socialify.git.ci/juanvic/temcard/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fstyles.redditmedia.com%2Ft5_g8mrl%2Fstyles%2FcommunityIcon_ztfjk0dqw9mc1.png&name=1&owner=1&pattern=Transparent&theme=Auto",
